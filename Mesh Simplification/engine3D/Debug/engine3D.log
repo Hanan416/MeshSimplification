@@ -1,0 +1,16 @@
+﻿  obj_loader.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(392): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(459): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(497): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(542): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(656): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(686): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(718): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(730): warning C4018: '<': signed/unsigned mismatch
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(1004): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(1062): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\engine3d\obj_loader.cpp(1063): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  engine3D.vcxproj -> C:\Users\meirs\OneDrive\מסמכים\Visual Studio 2015\Projects\final\final\ClassExample2[1]\ClassExample2[1]\ClassExample2\Debug\engine3D.lib

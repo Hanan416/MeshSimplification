@@ -1,0 +1,3 @@
+﻿  display.cpp
+c:\users\meirs\onedrive\מסמכים\visual studio 2015\projects\final\final\classexample2[1]\classexample2[1]\classexample2\display\display.cpp(8): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  display.vcxproj -> C:\Users\meirs\OneDrive\מסמכים\Visual Studio 2015\Projects\final\final\ClassExample2[1]\ClassExample2[1]\ClassExample2\Debug\display.lib

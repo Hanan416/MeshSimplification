@@ -10,6 +10,7 @@ the algorithm is mainly implemented in the obj_loader file, after parsing the ob
 
 ### bigBox OBJ file display
 right object: bigBox original view, total faces: 12
+
 left object: bigBox after simplification reduced to 8 faces
 
 <a href="https://imgflip.com/gif/2889ce"><img src="https://i.imgflip.com/2889ce.gif" title="made at imgflip.com"/></a>
@@ -17,6 +18,7 @@ left object: bigBox after simplification reduced to 8 faces
 
 ### bigBox OBJ file display
 right object: bigBox original view, total faces: 12
+
 left object: bigBox after simplification reduced to 6 faces
 
 <a href="https://imgflip.com/gif/28897z"><img src="https://i.imgflip.com/28897z.gif" title="made at imgflip.com"/></a>
@@ -33,6 +35,7 @@ left object: monkey after simplification reduced to 1500 faces
 ## Images     
 ### monkey OBJ file display
 right object: monkey original view, total faces: 3922
+
 left object: monkey after simplification reduced to 3500 faces
 
 <a href="http://tinypic.com?ref=6gj50n" target="_blank"><img src="http://i67.tinypic.com/6gj50n.png" border="0" alt="Image and video hosting by TinyPic"></a>
@@ -41,6 +44,7 @@ left object: monkey after simplification reduced to 3500 faces
 
 ### monkey OBJ file display
 right object: monkey original view, total faces: 3922
+
 left object: monkey after simplification reduced to 2500 faces
 
 <a href="http://tinypic.com?ref=214xsuw" target="_blank"><img src="http://i68.tinypic.com/214xsuw.png" border="0" alt="Image and video hosting by TinyPic"></a>
@@ -49,6 +53,7 @@ left object: monkey after simplification reduced to 2500 faces
 
 ### monkey OBJ file display
 right object: monkey original view, total faces: 3922
+
 left object: monkey after simplification reduced to 1500 faces
 
 <a href="http://tinypic.com?ref=312fzi0" target="_blank"><img src="http://i65.tinypic.com/312fzi0.png" border="0" alt="Image and video hosting by TinyPic"></a>
@@ -57,6 +62,7 @@ left object: monkey after simplification reduced to 1500 faces
       
 ### monkey OBJ file display
 right object: monkey original view, total faces: 3922
+
 left object: monkey after simplification reduced to 500 faces			
 
 <a href="http://tinypic.com?ref=2rw2874" target="_blank"><img src="http://i65.tinypic.com/2rw2874.png" border="0" alt="Image and video hosting by TinyPic"></a>
@@ -65,6 +71,7 @@ left object: monkey after simplification reduced to 500 faces
       
 ### monkey OBJ file display
 right object: monkey original view, total faces: 3922
+
 left object: monkey after simplification reduced to 100 faces
 
 <a href="http://tinypic.com?ref=1zzvno" target="_blank"><img src="http://i65.tinypic.com/1zzvno.png" border="0" alt="Image and video hosting by TinyPic"></a>

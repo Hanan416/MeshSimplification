@@ -8,9 +8,10 @@ the algorithm is mainly implemented in the obj_loader file, after parsing the ob
 
 ## GIFS      
 
-#bigBox OBJ file display
+# bigBox OBJ file display
 right object: bigBox original view, total faces: 12
 left object: bigBox after simplification reduced to 8 faces
+
 <a href="https://imgflip.com/gif/2889ce"><img src="https://i.imgflip.com/2889ce.gif" title="made at imgflip.com"/></a>
 
 #  
@@ -18,18 +19,20 @@ left object: bigBox after simplification reduced to 8 faces
 #   
      
 
-#bigBox OBJ file display
+# bigBox OBJ file display
 right object: bigBox original view, total faces: 12
 left object: bigBox after simplification reduced to 6 faces
+
 <a href="https://imgflip.com/gif/28897z"><img src="https://i.imgflip.com/28897z.gif" title="made at imgflip.com"/></a>
 
 #  
 #
 #   
      
-#monkey OBJ file display
+# monkey OBJ file display
 right object: monkey original view, total faces: 3922
 left object: monkey after simplification reduced to 1500 faces
+
 <a href="https://imgflip.com/gif/2889fb"><img src="https://i.imgflip.com/2889fb.gif" title="made at imgflip.com"/></a>
 
 #  
@@ -38,7 +41,7 @@ left object: monkey after simplification reduced to 1500 faces
 
 
 ## Images     
-#monkey OBJ file display
+# monkey OBJ file display
 right object: monkey original view, total faces: 3922
 left object: monkey after simplification reduced to 3500 faces
 
@@ -49,7 +52,7 @@ left object: monkey after simplification reduced to 3500 faces
 #
 #   
       
-#monkey OBJ file display
+# monkey OBJ file display
 right object: monkey original view, total faces: 3922
 left object: monkey after simplification reduced to 2500 faces
 
@@ -60,7 +63,7 @@ left object: monkey after simplification reduced to 2500 faces
 #
 #   
       
-#monkey OBJ file display
+# monkey OBJ file display
 right object: monkey original view, total faces: 3922
 left object: monkey after simplification reduced to 1500 faces
 
@@ -70,7 +73,7 @@ left object: monkey after simplification reduced to 1500 faces
 #
 #   
       
-#monkey OBJ file display
+# monkey OBJ file display
 right object: monkey original view, total faces: 3922
 left object: monkey after simplification reduced to 500 faces			
 
@@ -80,7 +83,7 @@ left object: monkey after simplification reduced to 500 faces
 #
 #   
       
-   #monkey OBJ file display
+# monkey OBJ file display
 right object: monkey original view, total faces: 3922
 left object: monkey after simplification reduced to 100 faces
 

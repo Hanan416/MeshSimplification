@@ -24,6 +24,7 @@ left object: bigBox after simplification reduced to 6 faces
 
 ### monkey OBJ file display
 right object: monkey original view, total faces: 3922
+
 left object: monkey after simplification reduced to 1500 faces
 
 <a href="https://imgflip.com/gif/2889fb"><img src="https://i.imgflip.com/2889fb.gif" title="made at imgflip.com"/></a>

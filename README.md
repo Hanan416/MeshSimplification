@@ -5,7 +5,7 @@ An implementation of a mesh simplification algorithm. the paper that describes t
 
 the algorithm is mainly implemented in the obj_loader file, after parsing the obj file and creating a mesh we simplify it and present the original and the simplified version  side by side for evaluation.
 
-### -----------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------------
 ### NOTE:
 when downloading the project one can add OBJ files however pay attention to the file content to match the info with bigBox or monkey3
 that already exsits in the obj folder (Mesh Simplification\ClassExample2\res\objs).
@@ -26,7 +26,7 @@ f 1/1/1 4/2/1 3/3/1
 remove // (double slash) for correct parsing
 
 ### Enjoy :)
-### -----------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------------
 
 ## GIFS      
 

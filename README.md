@@ -1,5 +1,5 @@
 
-### Mesh-Simplification
+# Mesh-Simplification
 
 An implementation of a mesh simplification algorithm. the paper that describes this algorithm is included in the project's main Directory.
 
@@ -8,7 +8,7 @@ the algorithm is mainly implemented in the obj_loader file, after parsing the ob
 
 ## GIFS      
 
-# bigBox OBJ file display
+### bigBox OBJ file display
 right object: bigBox original view, total faces: 12
 left object: bigBox after simplification reduced to 8 faces
 
